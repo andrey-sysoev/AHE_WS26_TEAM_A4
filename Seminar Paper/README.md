@@ -3,7 +3,7 @@
 ## Team
 Group A4
 - Andrey Sysoev
-- Aamir Awan
+- Muhammad Aamir Ejaz Ejaz
 - Mahmoud Fayad Kazan
 - Umut Faruk Karakaya
 
