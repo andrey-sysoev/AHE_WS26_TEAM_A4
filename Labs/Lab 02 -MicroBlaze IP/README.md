@@ -14,7 +14,7 @@ The system uses MicroBlaze, 128 KB local memory, a debug module, clock/reset cir
 - UART demonstration: **add terminal screenshot or log if available**.
 - Echo exercise (receive a character and print it back): **mark completed only after testing**.
 
-## Short explanation
+## Questions
 **Why UART?** It provides a serial communication channel between MicroBlaze and the PC.
 
 **What is the XSA?** It describes the hardware platform so Vitis can build software for the configured processor and peripherals.
