@@ -15,8 +15,3 @@ The first AXI GPIO connects the switches and LEDs; the second drives the segment
 **Why are display signals active-low?** A logic 0 turns on the selected segment or digit, so an all-zero output may illuminate several segments.
 
 **What does PWM duty cycle change?** It controls the average on-time and therefore the perceived RGB LED brightness. A duty value of 0 gives minimum output and 255 gives maximum output, subject to the IP's polarity and register definition.
-
-## Results / evidence
-- Block design, XDC and timing/utilization screenshots: see `ex01`.
-- Application code: see `ex02/main.c`.
-- Hardware demonstration of switch, display and PWM behavior: **add a screenshot or brief observation after testing**.
